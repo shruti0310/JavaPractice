@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-07-22T21:35:40Z" name="Default suite" finished-at="2018-07-22T21:35:51Z" duration-ms="11337">
+    <groups>
+    </groups>
+    <test started-at="2018-07-22T21:35:40Z" name="Default test" finished-at="2018-07-22T21:35:51Z" duration-ms="11337">
+      <class name="TestCase.VerifyLogin">
+        <test-method signature="verifyValidLogin()[pri:0, instance:TestCase.VerifyLogin@3af9c5b7]" started-at="2018-07-22T21:35:40Z" name="verifyValidLogin" finished-at="2018-07-22T21:35:51Z" duration-ms="11310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidLogin -->
+      </class> <!-- TestCase.VerifyLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
